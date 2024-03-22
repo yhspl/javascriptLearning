@@ -20,11 +20,9 @@ const menu = {
     } else {
       return 'Sorry! No any special on the menu Today.'
     }
-
   }
-
-
 };
+
 
 menu._meal = 'Biryani';
 menu._price = 0;
